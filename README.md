@@ -5,7 +5,17 @@
 yarn
 ```
 
-### Go to `src` folder and use (need to @vue/cli + @vue/cli-service-global)
+### install @vue/cli
+```bash
+yarn global add @vue/cli
+```
+
+### install @vue/cli-service-global
+```bash
+yarn global add @vue/cli-service-global
+```
+
+### Go to `src` folder and use
 ```
 vue serve
 ```
